@@ -48,6 +48,8 @@ Results are printed to the console.
 
 📂 Project Structure
 
+![Image](https://github.com/user-attachments/assets/2b29614d-74f3-4fb3-bb83-35d24b91af95)
+
 ├── applicationtest.py      # Main script for running all tests
 
 ├── api_test.py_
