@@ -38,9 +38,9 @@ Docker runs DVWA at http://localhost:8080.
 
 A Python script sends crafted payloads to test for:
 
-SQL Injection (/vulnerabilities/sqli)
+  SQL Injection (/vulnerabilities/sqli)
 
-XSS (/vulnerabilities/xss_r)
+  XSS (/vulnerabilities/xss_r)
 
 It checks the response HTML to determine if a vulnerability is present.
 
